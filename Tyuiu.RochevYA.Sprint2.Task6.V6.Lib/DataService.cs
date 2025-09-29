@@ -11,7 +11,7 @@ namespace Tyuiu.RochevYA.Sprint2.Task6.V6.Lib
             switch (m)
             {
                 case 1:
-                    mast = "пики";
+                    mast = "пик";
                     break;
                 case 2:
                     mast = "трефы";
