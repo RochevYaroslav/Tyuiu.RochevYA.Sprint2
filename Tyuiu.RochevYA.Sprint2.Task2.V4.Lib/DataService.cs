@@ -22,7 +22,7 @@ namespace Tyuiu.RochevYA.Sprint2.Task2.V4.Lib
                 {0,0,0,0,1,1,0,0,0,0,0,0,0,0,0 },
                 {0,0,0,0,0,0,0,0,0,0,0,0,0,0,0 },
             };
-            return matrix[x,y]==1;
+            return matrix[y,x]==1;
         }
     }
 }
