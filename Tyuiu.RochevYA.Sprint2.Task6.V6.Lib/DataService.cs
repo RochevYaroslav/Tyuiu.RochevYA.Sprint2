@@ -30,31 +30,31 @@ namespace Tyuiu.RochevYA.Sprint2.Task6.V6.Lib
             switch (k)
             {
                 case 6:
-                    number = "Шестерка";
+                    number = "шестерка";
                     break;
                 case 7:
-                    number = "Семерка";
+                    number = "семерка";
                     break;
                 case 8:
-                    number = "Восьмерка";
+                    number = "восьмерка";
                     break;
                 case 9:
-                    number = "Девятка";
+                    number = "девятка";
                     break;
                 case 10:
-                    number = "Десятка";
+                    number = "десятка";
                     break;
                 case 11:
-                    number = "Валет";
+                    number = "валет";
                     break;
                 case 12:
-                    number = "Дама";
+                    number = "дама";
                     break;
                 case 13:
-                    number = "Король";
+                    number = "король";
                     break;
                 case 14:
-                    number = "Туз";
+                    number = "туз";
                     break;
                 default:
                     number = "";
